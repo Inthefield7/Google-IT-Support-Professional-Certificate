@@ -2,7 +2,7 @@
 
 <br>
 
-![cert](google-it-support.jpg)
+![cert](Google IT Support Professional Certificate.jpg)
 
 
 * This repository written for reference and self-documentation purpose
