@@ -3,7 +3,7 @@
 <br>
 
 
-* This repository written for reference and self-documentation purpose
+* This repository is written for reference and self-documentation purposes.
 * Feel free to contribute!
 
 
